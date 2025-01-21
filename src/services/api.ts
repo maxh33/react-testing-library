@@ -16,3 +16,7 @@ const api = createApi({
 export const { useGetJogosQuery } = api
 
 export default api
+
+//npm install -g json-server
+//them
+//json-server --watch db.json --port 4000
