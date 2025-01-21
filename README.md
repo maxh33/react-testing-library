@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+# Purpose
+
+The purpose of this repository is to implement tests using Jest. It includes the use of mock data and various technologies such as Redux Toolkit, RTK Query, and JSON Server.
+
+## Technologies Used
+
+- React
+- Redux Toolkit
+- RTK Query
+- TypeScript
+- Styled-components
+- JSON Server
+
+## Features
+
+- Add products to the cart
+- Display total items and total price in the cart
+- Fetch products from a mock API using RTK Query
+- Responsive design
+
+## Demo
+
+![Demo GIF](https://github.com/maxh33/react-testing-library/blob/main/public/demoJestTest.gif)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
